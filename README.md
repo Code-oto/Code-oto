@@ -12,4 +12,4 @@
 
 ## Pythonのトリック:
   
-<img src="https://github.com/Code-Oto/Code-Oto/blob/main/dc_py.png?raw=true" width="80">
+<img src="https://github.com/Code-Oto/Code-Oto/blob/main/dc_py.svg?raw=true" width="80">
