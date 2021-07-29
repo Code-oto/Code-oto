@@ -10,4 +10,6 @@
 </p>
 </div>
 
-## Pythonのトリック
+## Pythonのトリック:
+  
+<img src="https://github.com/Code-Oto/Code-Oto/blob/main/dc_py.png?raw=true" width="80">
