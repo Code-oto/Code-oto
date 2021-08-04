@@ -13,3 +13,7 @@
 ## Pythonのトリック:
   
 <img src="https://github.com/Code-Oto/Code-Oto/blob/main/dc_py.svg?raw=true" width="80">
+
+## 私の創造：
+  
+### 一時的に非公開:P
