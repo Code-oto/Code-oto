@@ -1,4 +1,5 @@
-<h3 align="center">NOTHING HERE L</h3>
+<h3 align="center">HI I am a boy who love coding awa</h3>
+<h4 align="center">The following is my GitHub stats awa</h4>
 <div align="center">
 <p>
   <a href="https://github.com/Code-Oto">
@@ -7,6 +8,6 @@
 </p>
 </div>
 
-## NOTHING:
+## My repository awa:
   
 <img src="https://github.com/Code-Oto/Code-Oto/blob/main/dc_py.svg?raw=true" width="80">
