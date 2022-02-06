@@ -10,4 +10,4 @@
 
 ## My repository awa:
   
-<img src="https://github.com/oto9487/oto9487/blob/main/dc_py.svg?raw=true" width="80">
+lol None...
