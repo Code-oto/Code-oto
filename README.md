@@ -13,10 +13,10 @@
 <h2>Skills:</h2>
 <p>Python</p>
 <h4></h4>
-<h2>Languages I speak:<h2>
+<h2>Languages I speak:</h2>
 <p>Chinese</p>
 <p>English</p>
 <h4></h4>
 <h2>Contact me:</h2>
-<p>Discord: 音喵ouo#4-84</p>
-<h3 align="center">Thanks you read to the end of this README.md!</h3>
+<p>Discord: 音喵ouo#4084</p>
+<h3 align="center">Thank you read to the end of this README.md!</h3>
