@@ -1,5 +1,8 @@
-<h3 align="center">Hello I am a boy who love coding ouo</h3>
-<h4 align="center">The following is my GitHub stats ouo</h4>
+<h3 align="center">Hi there!</h3>
+<h4 align="center">Thanks for reading this README.md!</h4>
+<h4 align="center">Let me talk about myself.</h4>
+<h4 align="center">I'm a person on earth who like coding and playing games ouo</h4>
+<h4 align="center">And the following below is my GitHub stats ouo</h4>
 <div align="center">
 <p>
   <a href="https://github.com/oto9487">
@@ -7,7 +10,12 @@
   </a>
 </p>
 </div>
-
-## My repository ouo:
-  
-lol None...
+<h2>Skills:</h2>
+<p>Python</p>
+<h4></h4>
+<h2>Languages I speak:<h2>
+<p>Chinese</p>
+<p>English</p>
+<h2>Contact me:</h2>
+<p>Discord: 音喵ouo</p>
+<h3 align="center">Thanks you read to the end of this README.md!</h3>
