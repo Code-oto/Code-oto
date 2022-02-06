@@ -1,5 +1,5 @@
-<h3 align="center">HI I am a boy who love coding awa</h3>
-<h4 align="center">The following is my GitHub stats awa</h4>
+<h3 align="center">Hello I am a boy who love coding ouo</h3>
+<h4 align="center">The following is my GitHub stats ouo</h4>
 <div align="center">
 <p>
   <a href="https://github.com/oto9487">
@@ -8,6 +8,6 @@
 </p>
 </div>
 
-## My repository awa:
+## My repository ouo:
   
 lol None...
