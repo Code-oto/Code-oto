@@ -12,6 +12,8 @@
 </div>
 <h2>Skills:</h2>
 <p>Python</p>
+<p>HTML</p>
+<p>CSS</p>
 <h4></h4>
 <h2>Languages I speak:</h2>
 <p>Chinese</p>
