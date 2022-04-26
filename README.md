@@ -20,5 +20,5 @@
 <p>English</p>
 <h4></h4>
 <h2>Contact me:</h2>
-<p>Discord: 音喵ouo#4084</p>
+<p>Discord: 音喵#4084</p>
 <h3 align="center">Thank you read to the end of this README.md!</h3>
