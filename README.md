@@ -5,8 +5,8 @@
 <h4 align="center">And the following below is my GitHub stats</h4>
 <div align="center">
 <p>
-  <a href="https://github.com/oto9487">
-  <img src="https://github-readme-stats.vercel.app/api?username=oto9487&show_icons=true&theme=react" alt="GitHub ReadMe Stats">
+  <a href="https://github.com/Code-oto">
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-oto&show_icons=true&theme=react" alt="GitHub ReadMe Stats">
   </a>
 </p>
 </div>
